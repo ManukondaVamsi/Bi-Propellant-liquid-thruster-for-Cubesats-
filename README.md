@@ -70,7 +70,7 @@ P_{tank} = P_c + \Delta P_{injector} + \Delta P_{cooling} + \Delta P_{lines}
 ## How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cubesat-biprop-thruster.git
+git clone https://github.com/ManukondaVamsi/Bi-Propellant-liquid-thruster-for-Cubesats-/.git
 ```
 2. Open MATLAB.
 3. Run:
