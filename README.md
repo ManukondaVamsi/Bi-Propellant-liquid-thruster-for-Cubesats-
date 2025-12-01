@@ -1,6 +1,6 @@
 # CubeSat Bi-Propellant Thruster Design (N₂O₄ / MMH) – MATLAB Tool
 This repository contains a **MATLAB design tool** for a **bi-propellant liquid rocket thruster** sized for **CubeSat-class spacecraft**.
-The script computes key performance and design parameters using combustion data from your project report (CEA-derived), including:
+The script computes key performance and design parameters using combustion data from your project report (CEA-derived), including
 
 * Thrust
 * Mass flow rate
